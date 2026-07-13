@@ -26,9 +26,9 @@ jobs:
         run: dotnet tool install --global dotnet-sonarscanner
 
       - name: Sonar Begin
-        run: | # TODO FIX THE _Server to match the repository name somehow?
+        run: |
           dotnet sonarscanner begin \
-            /k:"mathew-odwyer_Server" \
+            /k:"mathew-odwyer_WaterWorld" \
             /o:"mathew-odwyer" \
             /d:sonar.token="${{ secrets.SONAR_TOKEN }}" \
             /d:sonar.host.url="https://sonarcloud.io" \
