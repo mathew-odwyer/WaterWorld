@@ -1,28 +1,24 @@
 <div align="center">
 
-# Repository Template
+# Water World
 
 [![Built with: .NET](https://img.shields.io/badge/Built%20with-.NET-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 
 [![Build](../../actions/workflows/build.yml/badge.svg)](../../actions/workflows/build.yml)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mathew-odwyer_Server&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mathew-odwyer_Server)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=mathew-odwyer_Server&metric=coverage)](https://sonarcloud.io/summary/new_code?id=mathew-odwyer_Server)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mathew-odwyer_WaterWorld&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mathew-odwyer_WaterWorld)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=mathew-odwyer_WaterWorld&metric=coverage)](https://sonarcloud.io/summary/new_code?id=mathew-odwyer_WaterWorld)
 
-![Milestone Progress](https://img.shields.io/github/milestones/progress-percent/OWNER/REPOSITORY/4)
-[![Release](https://img.shields.io/github/v/release/OWNER/REPOSITORY?include_prereleases)](../../releases)
+![Milestone Progress](https://img.shields.io/github/milestones/progress-percent/mathew-odwyer/WaterWorld/1)
+[![Release](https://img.shields.io/github/v/release/mathew-odwyer/WaterWorld?include_prereleases)](../../releases)
 ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 </div>
 
-## 🚀 Getting Started
+## Overview
 
-Below are a list of things you must complete for the template to be ready per new repository:
-- Update sonar.yml and sonar badge(s) to point to the new repository.
-- Update ISSUE_TEMPLATES to point to the project related to the repository (if any).
-- Create the .NET solution inside src
-- Create a test PR to ensure that all workflows pass and all links are working.
-- Update README with a short overview at the top.
-- Ensure all included NuGet packages are up-to-date.
+Water World is a super simple modern .NET Game Engine developed after years of being unhappy with no easy way to prototype games in .NET as most engines with .NET support contain heavy tooling and require plenty of setup. Water World aims to be easy to use.
+
+## 🚀 Getting Started
 
 ### Prerequisites
 
