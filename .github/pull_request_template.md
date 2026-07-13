@@ -1,0 +1,41 @@
+# Description
+
+Please include a summary of your changes along with relevant motivation and context.
+
+- Fixes # (issue)
+
+## Dependencies
+
+Please list any dependencies that are required for this change.
+
+## Type of change
+
+- [ ] Bug fix (non-breaking change which fixes an issue).
+- [ ] New feature (non-breaking change which adds functionality).
+- [ ] Epic (large feature broken into individual tasks).
+- [ ] Other (please specify).
+
+## How Has This Been Tested?
+
+Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration.
+
+**Test Configuration**:
+* Operating System: Windows 11 Home
+* Hardware: Intel i7-10710U, 32GB RAM, Intel UHD Graphics
+* Toolchain: VS Community 2022
+
+## Possible Issues
+
+Please list any possible issues that may arise from the merge of this PR.
+
+## Checklist:
+
+- [ ] I have updated the CHANGELOG to reflect my changes
+- [ ] My code follows the style guidelines of this project
+- [ ] I have performed a self-review of my own code
+- [ ] I have commented my code in hard-to-understand areas
+- [ ] I have made corresponding changes to the documentation
+- [ ] I have added tests that prove my fix is effective or that my feature works
+- [ ] I have not used `ExcludeFromCodeCoverageAttribute` on a class with logic.
+- [ ] New and existing tests pass locally with my changes
+- [ ] My changes generate no new warnings
