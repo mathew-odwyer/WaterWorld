@@ -5,8 +5,8 @@
 [![Built with: .NET](https://img.shields.io/badge/Built%20with-.NET-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 
 [![Build](../../actions/workflows/build.yml/badge.svg)](../../actions/workflows/build.yml)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mathew-odwyer_Server&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mathew-odwyer_Server)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=mathew-odwyer_Server&metric=coverage)](https://sonarcloud.io/summary/new_code?id=mathew-odwyer_Server)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mathew-odwyer_WaterWorld&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mathew-odwyer_WaterWorld)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=mathew-odwyer_WaterWorld&metric=coverage)](https://sonarcloud.io/summary/new_code?id=mathew-odwyer_WaterWorld)
 
 ![Milestone Progress](https://img.shields.io/github/milestones/progress-percent/mathew-odwyer/WaterWorld/1)
 [![Release](https://img.shields.io/github/v/release/mathew-odwyer/WaterWorld?include_prereleases)](../../releases)
