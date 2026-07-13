@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="WaterWorld/WaterWorld.csproj" Id="a62b6ad4-e72f-4d4a-abc3-b37e582b5da7">
+    <Platform Project="x64" />
+  </Project>
+</Solution>
