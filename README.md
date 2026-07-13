@@ -8,8 +8,8 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mathew-odwyer_Server&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mathew-odwyer_Server)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=mathew-odwyer_Server&metric=coverage)](https://sonarcloud.io/summary/new_code?id=mathew-odwyer_Server)
 
-![Milestone Progress](https://img.shields.io/github/milestones/progress-percent/OWNER/REPOSITORY/4)
-[![Release](https://img.shields.io/github/v/release/OWNER/REPOSITORY?include_prereleases)](../../releases)
+![Milestone Progress](https://img.shields.io/github/milestones/progress-percent/mathew-odwyer/WaterWorld/1)
+[![Release](https://img.shields.io/github/v/release/mathew-odwyer/WaterWorld?include_prereleases)](../../releases)
 ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 </div>
